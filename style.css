@@ -1,0 +1,12 @@
+body {
+    background-color: #F0B27A;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: left;
+}
+
+th, td {
+    padding: 7px;
+}
