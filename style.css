@@ -2,6 +2,14 @@ body {
     background-color: #F0B27A;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+h4 {
+    margin-bottom: 0;
+}
+
 table, th, td {
     border: 1px solid black;
     text-align: left;
