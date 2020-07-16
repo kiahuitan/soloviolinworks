@@ -3,7 +3,11 @@ body {
 }
 
 a:link {
-  text-decoration: none;
+    text-decoration: none;
+}
+
+.nobr {
+    white-space: nowrap
 }
 
 .blog {
