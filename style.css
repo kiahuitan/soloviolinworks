@@ -6,8 +6,12 @@ a:link {
   text-decoration: none;
 }
 
-h4 {
-    margin-bottom: 0;
+.blog {
+    font-style: italic;
+    font-size: 1.1em;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: justify;
 }
 
 table, th, td {
