@@ -26,3 +26,23 @@ table, th, td {
 th, td {
     padding: 7px;
 }
+
+.res {
+    background-color: #7ab8f0;
+}
+
+.new {
+    background-color: #7df07a;
+}
+
+.fix {
+    background-color: #ed7af0;
+}
+
+.res th {
+    padding: 3px;
+}
+.res td {
+    padding: 3px;
+}
+
