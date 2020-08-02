@@ -6,16 +6,53 @@ a:link {
     text-decoration: none;
 }
 
+.KiWipedia {
+	text-shadow:	1px -1px;
+}
+
+.topbanner {
+	background-color: hsl(28, 80%, 79%);
+}
+
+.A-Z {
+	font-size: 1.2em;
+	font-weight: bold;
+	background-color: hsl(28, 80%, 79%);
+}
+
+.fillcell {
+	background-color: hsl(28, 80%, 75%);
+}
+
 .nobr {
-    white-space: nowrap
+    white-space: nowrap;
+}
+
+.IndentLeft {
+	padding-left: 35px;
+}
+
+.center {
+	text-align: center
 }
 
 .blog {
-    font-style: italic;
     font-size: 1.1em;
+	line-height: 1.5;
+    padding-left: 35px;
+    padding-right: 35px;
+    text-align: justify;	
+}
+
+.signature {
+	font-size: 1.1em;
     padding-left: 35px;
     padding-right: 35px;
     text-align: justify;
+}
+
+table {
+	width: 100%;
 }
 
 table, th, td {
@@ -46,3 +83,8 @@ th, td {
     padding: 3px;
 }
 
+footer {
+    padding-left: 35px;
+    padding-right: 35px;
+	text-align: center;
+}
